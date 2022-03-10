@@ -2,8 +2,8 @@
 
 /*
  * main - print the size of different data-types
- * Description: prints the size of data types
- * Return: return 0
+ *
+ * Return: 0
  */
 int main(void)
 {
