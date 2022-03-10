@@ -3,7 +3,7 @@
 /**
  * main - print error
  * Description: not allowed to use any functions
- * return 1
+ * return: 1
  */
 int main(void)
 {
