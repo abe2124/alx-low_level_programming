@@ -2,7 +2,7 @@
 #include <stdlib.h>
 /**
  * main - alphabet
- * Description: prints the alphabet in lower
+ * Description: Pprints the alphabet in lower
  * Return: 0
  */
 int main(void)
