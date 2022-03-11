@@ -3,15 +3,16 @@
 #include <time.h>
 
 /**
- * Main - Positive or negative
- * Description: check a number is posetive, negetive or zero
- * Return: return 0
+ * main - Entry point
+ *
+ * Return: Always 0 (success)
  */
 int main(void)
 {
 	int n;
+
 	srand(time(0));
-	n = rand() - RAND_MAX/2;
+	n = rand() - RAND_MAX / 2;
 	if (n == 0)
 		printf("%d is zero\n", n);
 	else if (n > 0)
