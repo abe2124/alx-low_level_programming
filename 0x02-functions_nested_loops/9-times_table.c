@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * time_tble - times tebl
+ * times_table - times tebl
  * @void: empty
  */
-void time_tble(void)
+void times_table(void)
 {
 	int i, j, k;
 
