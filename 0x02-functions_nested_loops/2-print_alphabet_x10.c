@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * print alphabat 10 x - pprints all alphabate in lowercas 10 tims
- *
- * Return: Always 0.
+ *  main - print the alphabet
+ *  that prints all off them alphabet fllowed by new line
+ *  Return: 0
  */
+
 void print_alphabet_x10(void)
 {
 	int i;
