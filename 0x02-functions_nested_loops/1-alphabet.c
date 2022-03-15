@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * main - Print alphaba
- * Desc: print alphabat - prints the alphabet, in lower, fllowd by new line
- * Retrn: return 0
+ * main - Print alphabet
+ * Description: print alphabet fllowed by new line
+ * Return: return 0
  */
+
 void print_alphabet(void)
 {
 	char ch;
