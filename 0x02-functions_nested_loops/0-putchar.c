@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - print _putchar, fllowd by a new line
+ * main - print _putchar, fllowd by a new lines
  * Return: Alwys 0 (Success)
  */
 int main(void)
