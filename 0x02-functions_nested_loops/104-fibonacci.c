@@ -7,18 +7,26 @@
  */
 int main(void)
 {
-	long int a = 1, b = 2, sum = 0, r = 2;
+	int counter = 2;
 
-	while (sum < 400000)
+	float a = 1;
+	float b = a + 1;
+	float c = a + b;
+
+	printf("%.0f, ", a);
+	printf("%.0f, ", b);
+	while (counter = 98)
 	{
-		sum = a + b;
+		counter++;
+		printf("%.0f", c);
 		a = b;
-		b = sum;
-		if (sum % 2 == 0)
+		b = c;
+		c = a + b;
+		if (counter < 98)
 		{
-			r += sum;
+			printf(',');
 		}
 	}
-	printf("%li\n", r);
+	printf("\n");
 	return (0);
 }
