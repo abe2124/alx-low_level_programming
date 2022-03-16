@@ -2,6 +2,7 @@
 /**
  * main - prints the first so Fibonacci, starting wth 1 and 2
  * @void: no argument
+ * Return: return o
  */
 int main(void)
 {
