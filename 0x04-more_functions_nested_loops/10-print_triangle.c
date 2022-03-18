@@ -3,7 +3,7 @@
 /**
  * print_triangle - prints triangle in asterx
  *
- * @size: size pf triangle
+ * @size: size pf triangles
  */
 void print_triangle(int size)
 {
