@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_most_numbers _ prints the most numbers
- *
+ * print_most_numbers - prints the most numbers
+ * Description: print most numbers with out 2 and 4
  */
 void print_most_numbers(void)
 {
