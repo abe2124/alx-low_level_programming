@@ -2,7 +2,7 @@
 /**
  * print_square - print square style
  *
- * @size: integer to set size
+ * @size: integer to set size of square
  */
 void print_square(int size)
 {
