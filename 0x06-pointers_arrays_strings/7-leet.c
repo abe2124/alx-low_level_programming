@@ -5,6 +5,7 @@
  * @s: string to be encoded
  * Return: the resulti endf
  */
+
 char *leet(char *s)
 {
 	int i, j;
@@ -17,7 +18,7 @@ char *leet(char *s)
 		{
 			if (s[i] == a[j])
 			{
-				s[i] == b[j];
+				s[i] = b[j];
 			}
 		}
 	}
