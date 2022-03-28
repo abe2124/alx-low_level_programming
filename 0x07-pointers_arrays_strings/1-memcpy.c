@@ -1,4 +1,3 @@
-#include "main.h"
 
 /**
  * _memcpy - copie memory area
