@@ -1,4 +1,3 @@
-#include "main.h"
 /**
  * _strpbrk - searches a string for any of aset of bytes
  * @s: string
