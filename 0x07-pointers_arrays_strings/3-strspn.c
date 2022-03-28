@@ -1,6 +1,6 @@
 /**
  * _strspn - a function that gets the
- * length of  a prefix substring
+ * length of  a prefix substrings
  * @s: pointer to string input
  * @accept: substring prefix to look for
  * Return: the number
