@@ -1,7 +1,5 @@
-#include "main.h"
-
 /**
- * _memset - function that fills memory with a condtant byte.
+ * memset - funion that fills memory with a condtant byte.
  *
  * @s: memory area to return
  * @b: constant bayte
