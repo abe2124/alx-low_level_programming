@@ -1,9 +1,9 @@
 #include <string.h>
 
 /**
- * set_string - a function
+ * set_string - a function ...
  * @s: the pointer of char
- * @to: the chaines
+ * @to: the chaine
  *
  * Return: 1 or 0
  */
