@@ -57,13 +57,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-WsPOGnkWtqT5OK/TKUWJdLBQtCBj+l3ib4PnBOxRA4gOeNmO4qVVjQloNmUTT0l0F2QQHPtCTME7iTKdpk4pHg==" src="https://github.githubassets.com/assets/diffs-5ac3ce1a7916.js"></script>
   
 
-  <title>alx-low_level_programming/1-create_dynamic_lib.sh at master · maza123716/alx-low_level_programming</title>
+  <title>alx-low_level_programming/100-operations.c at master · maza123716/alx-low_level_programming</title>
 
 
 
     
 
-  <meta name="request-id" content="DCE5:13B7F:250B772:25BBC7C:62A7B954" data-pjax-transient="true" /><meta name="html-safe-nonce" content="846efc4ea8bd85ed7aad3d84312cd3e1dc4b9c32389f27e1a8c0daecfc35b649" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tYXphMTIzNzE2L2FseC1sb3dfbGV2ZWxfcHJvZ3JhbW1pbmcvdHJlZS9tYXN0ZXIvMHgxOC1keW5hbWljX2xpYnJhcmllcyIsInJlcXVlc3RfaWQiOiJEQ0U1OjEzQjdGOjI1MEI3NzI6MjVCQkM3Qzo2MkE3Qjk1NCIsInZpc2l0b3JfaWQiOiIzODAwMTEyNTgxODIzNDg2OTQ3IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="2eb3ca0eeb77bbeab5f8464ab2e25596e9bd96241e7a8630be5eb24e3a724eb0" data-pjax-transient="true" />
+  <meta name="request-id" content="B416:3315:24C93E2:2579B46:62A7B954" data-pjax-transient="true" /><meta name="html-safe-nonce" content="846efc4ea8bd85ed7aad3d84312cd3e1dc4b9c32389f27e1a8c0daecfc35b649" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tYXphMTIzNzE2L2FseC1sb3dfbGV2ZWxfcHJvZ3JhbW1pbmcvdHJlZS9tYXN0ZXIvMHgxOC1keW5hbWljX2xpYnJhcmllcyIsInJlcXVlc3RfaWQiOiJCNDE2OjMzMTU6MjRDOTNFMjoyNTc5QjQ2OjYyQTdCOTU0IiwidmlzaXRvcl9pZCI6IjM4MDAxMTI1ODE4MjM0ODY5NDciLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="c2ac42f963afc45b2f6d9569bb2f0cf698725a224219bee8fe3a96ca09860ce4" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:468328488" data-pjax-transient>
 
@@ -98,11 +98,11 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/0104c2695f10e1118ac2a4791db1fea03971f16f40c3a82e0eaaa76c65646fee/maza123716/alx-low_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-low_level_programming/1-create_dynamic_lib.sh at master · maza123716/alx-low_level_programming" /><meta name="twitter:description" content="C programming. Contribute to maza123716/alx-low_level_programming development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/0104c2695f10e1118ac2a4791db1fea03971f16f40c3a82e0eaaa76c65646fee/maza123716/alx-low_level_programming" /><meta property="og:image:alt" content="C programming. Contribute to maza123716/alx-low_level_programming development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-low_level_programming/1-create_dynamic_lib.sh at master · maza123716/alx-low_level_programming" /><meta property="og:url" content="https://github.com/maza123716/alx-low_level_programming" /><meta property="og:description" content="C programming. Contribute to maza123716/alx-low_level_programming development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/0104c2695f10e1118ac2a4791db1fea03971f16f40c3a82e0eaaa76c65646fee/maza123716/alx-low_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-low_level_programming/100-operations.c at master · maza123716/alx-low_level_programming" /><meta name="twitter:description" content="C programming. Contribute to maza123716/alx-low_level_programming development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/0104c2695f10e1118ac2a4791db1fea03971f16f40c3a82e0eaaa76c65646fee/maza123716/alx-low_level_programming" /><meta property="og:image:alt" content="C programming. Contribute to maza123716/alx-low_level_programming development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-low_level_programming/100-operations.c at master · maza123716/alx-low_level_programming" /><meta property="og:url" content="https://github.com/maza123716/alx-low_level_programming" /><meta property="og:description" content="C programming. Contribute to maza123716/alx-low_level_programming development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/99542621/ws?session=eyJ2IjoiVjMiLCJ1Ijo5OTU0MjYyMSwicyI6ODg0Mjk3OTk1LCJjIjoxMzI0ODg2NDg5LCJ0IjoxNjU1MTU5MTI1fQ==--12fe14fd0b1358ef163431a2861f8a64e4c1aa113ee12cfa423a60b199ce40ff" data-refresh-url="/_alive" data-session-id="7cf1280752b04b56307ea7471180024885dfba9f16087bd04fb926c1f10e9975">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/99542621/ws?session=eyJ2IjoiVjMiLCJ1Ijo5OTU0MjYyMSwicyI6ODg0Mjk3OTk1LCJjIjo0MDA0ODU4NDQ5LCJ0IjoxNjU1MTU5MTI1fQ==--ceb2d89f5fd2165acf1027b8e522e865f9255c3e47f74433f8a6e4f141b395e6" data-refresh-url="/_alive" data-session-id="7cf1280752b04b56307ea7471180024885dfba9f16087bd04fb926c1f10e9975">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b98ccfd9236e.js">
     <link rel="sudo-modal" href="/sessions/sudo_modal">
 
@@ -115,7 +115,7 @@
 
         <meta name="expected-hostname" content="github.com">
 
-        <meta name="js-proxy-site-detection-payload" content="ZTk1Y2U4MzE0MTFkMWFmZTlmZGFkYzVjOGUxNDUzNTI3MTBmN2JlYWFlOGI5ZWFlM2Q2OTQ0YjcyZmU4NDRlY3x7InJlbW90ZV9hZGRyZXNzIjoiMjEzLjU1LjgzLjQ5IiwicmVxdWVzdF9pZCI6IkRDRTU6MTNCN0Y6MjUwQjc3MjoyNUJCQzdDOjYyQTdCOTU0IiwidGltZXN0YW1wIjoxNjU1MTU5MTI1LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+        <meta name="js-proxy-site-detection-payload" content="OTBjMDM5YjYyYjJiYWE3ZTM3ODU0ZTI0MWZjZDA5Nzc2M2I1NDQzMDUyYTJiZDcxYWFiOWY5ODBjYTM5ZTQ3Y3x7InJlbW90ZV9hZGRyZXNzIjoiMjEzLjU1LjgzLjQ5IiwicmVxdWVzdF9pZCI6IkI0MTY6MzMxNToyNEM5M0UyOjI1NzlCNDY6NjJBN0I5NTQiLCJ0aW1lc3RhbXAiOjE2NTUxNTkxMjUsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="ACTIONS_CALLABLE_WORKFLOWS,PRESENCE_IDLE">
 
@@ -134,7 +134,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/maza123716/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/maza123716/alx-low_level_programming/blob/master/0x18-dynamic_libraries/100-operations.c" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -224,7 +224,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="T_KTaz_PAIdhH-NbMyFMqOSJVZwlkRzVoBV8kwx5s1BV1EEBPAIlyaQtVFggMoUDJZuq5O_qiTlEZv0aU6we0w" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="sNo8wwx4JuRVhpL8KVCyKMrqhNfl_2UaLmIDeiQyyu2q_O6pD7UDqpC0Jf86Q3uDC_h7ry-E8PbKEYLze-dnbg" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -423,7 +423,7 @@
 
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-turbo="false" data-selected-links="/codespaces /codespaces" href="/codespaces">Codespaces</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;abe2124&quot;,&quot;originating_url&quot;:&quot;https://github.com/maza123716/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh&quot;,&quot;user_id&quot;:99542621}}" data-hydro-click-hmac="037e74b049217d12d4736f02a85d42b36c6588f02a97566f055670ce61d862d2" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;abe2124&quot;,&quot;originating_url&quot;:&quot;https://github.com/maza123716/alx-low_level_programming/blob/master/0x18-dynamic_libraries/100-operations.c&quot;,&quot;user_id&quot;:99542621}}" data-hydro-click-hmac="765076e24ac9ca8438078bccc80be5fb08369417a36e6b612c6c9601dab85d78" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -431,7 +431,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/99542621?s=40&amp;v=4" width="20" height="20" alt="@abe2124" />
       abe2124
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="gKSGFjO_anvz07644_a30c3Elf79UcQTqKKgGlAEkuK1YTQapXgtUzibOzvteiQn6yHaaFvX38OB6SJaBiTcoA" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="xFT0exIgmReMxFwHg8gyZgDpZCHnjB8O3BWETlr0Nm_xkUZ3hOfeP0eM2YSNRKGQJgwrt0EKBN71XgYODNR4LQ" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -606,7 +606,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      data-return-to=/maza123716/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh
+      data-return-to=/maza123716/alx-low_level_programming/blob/master/0x18-dynamic_libraries/100-operations.c
       data-user-id="99542621"
       data-activation-hotkey="Mod+k,Mod+Alt+k"
       data-command-mode-hotkey="Mod+Shift+k"
@@ -1566,7 +1566,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:468328488,&quot;originating_url&quot;:&quot;https://github.com/maza123716/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh&quot;,&quot;user_id&quot;:99542621}}" data-hydro-click-hmac="bce3c4dd20850d1d499cf0a99a188e31d0fb6be4c67bd4965c76f564e3b2a09e" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
+      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:468328488,&quot;originating_url&quot;:&quot;https://github.com/maza123716/alx-low_level_programming/blob/master/0x18-dynamic_libraries/100-operations.c&quot;,&quot;user_id&quot;:99542621}}" data-hydro-click-hmac="7b35f54778f3512a32d61fa8f73d404ba210a9950c6baff90a23e5b3782bfd63" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
             <span
               hidden
               
@@ -1619,7 +1619,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Cp_5FhnZaLxVVwgEK3j7P--ijvqJ32Fi-EapQ1xR1wqqRAMiBt4b--Rmt4qH0peE0vO-_BpAdp2yqKr4X88KQQ" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="MhWtIkDdYqzQOqH9FYcKQTQnZ0imoJ6u8vwLj591caWSzlcWX9oR62ELHnO5LWb6CXZXTjU_iVG4Egg0nOus7g" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="468328488">
 
@@ -1747,7 +1747,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="je1HChLt8i1_wB2iNZlHZhVAtDe3vapHYVMccVlxh1gtNr0-DeqBas7xoiyZMyvdKBGEMSQivbgrvR_KWu9aEw" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="tx7mxKvSAACdsV6mKgjECtIlMJYK3V7F_UsSnDi4aukXxRzwtNVzRyyA4SiGoqix73QAkJlCSTq3pREnOya3og" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="468328488">
 
@@ -1894,7 +1894,7 @@
   </li>
 
   <li>
-          <a href="/maza123716/alx-low_level_programming/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:468328488,&quot;originating_url&quot;:&quot;https://github.com/maza123716/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh&quot;,&quot;user_id&quot;:99542621}}" data-hydro-click-hmac="359b0656ff3d540454e040aeef39b73f99312d00c11255679270fe84bab77c14" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of maza123716/alx-low_level_programming" data-view-component="true" class="btn-sm btn float-left">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+          <a href="/maza123716/alx-low_level_programming/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:468328488,&quot;originating_url&quot;:&quot;https://github.com/maza123716/alx-low_level_programming/blob/master/0x18-dynamic_libraries/100-operations.c&quot;,&quot;user_id&quot;:99542621}}" data-hydro-click-hmac="3af6e08cc4ed6949fc428939c95b44e493ebf3cfe512da0b019f3c0680198fa8" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of maza123716/alx-low_level_programming" data-view-component="true" class="btn-sm btn float-left">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
         <span id="repo-network-counter" data-pjax-replace="true" title="1" data-view-component="true" class="Counter">1</span>
@@ -1923,19 +1923,19 @@
 </template>
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/maza123716/alx-low_level_programming/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="2D6fYCkYFXWmNEYCZbWO33DUXhL3Nyh_jXLEXFP3J2mv6waigWN1ic2zsolSthLkshBBc0_6IuwORf3gPkcnYQ" autocomplete="off" />
-        <input type="hidden" value="Q6N_YO-Ouv2CfIclVR8NcPGeHPDQto84_dzYvxDBcNc0duaiR_XaAen7c65iHJFLM1oDkWh7hat-6-EDfXFw3w" data-csrf="true" class="js-confirm-csrf-token" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/maza123716/alx-low_level_programming/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ux1JYAstG85XmM59ME3Tjri4bX5Ytza0_daXyfadDRrMyNCio1Z7MjwfOvYHTk-1enxyH-B6PCd-4a51my0NEg" autocomplete="off" />
+        <input type="hidden" value="0gOPQGd_NcNQgkoWOnJ4pC7N-am6SlbMivZBRwxFNTil1haCzwRVPzsFvp0NceSf7AnmyAKHXF8JwXj7YfU1MA" data-csrf="true" class="js-confirm-csrf-token" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:468328488,&quot;originating_url&quot;:&quot;https://github.com/maza123716/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh&quot;,&quot;user_id&quot;:99542621}}" data-hydro-click-hmac="e06d68c3ab01f23a5129b615a4f060cfd5aa85fcb96878affdc2b122e50fe820" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:468328488,&quot;originating_url&quot;:&quot;https://github.com/maza123716/alx-low_level_programming/blob/master/0x18-dynamic_libraries/100-operations.c&quot;,&quot;user_id&quot;:99542621}}" data-hydro-click-hmac="115aac77113105516609e13474602f631022b27d6e40c4af112610dbb56db9d8" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Starred
 </span>          <span id="repo-stars-counter-unstar" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
   
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/maza123716/alx-low_level_programming/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="NJStnRRWO2uwkGGf3xr5EzfCuk36OJMseAJqrA0xDM3d6T1jIzx0iBrmBRW2Nexjv7_od1hCQxKDqQbWt0ScjQ" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/maza123716/alx-low_level_programming/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="XWaBwSaoUFw-3d3RtwK1nUZRZarLoC6nuJCR-7iUV_i0GxE_EcIfv5SruVveLaDtziw3kGna_plDO_2BAuHHuA" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:468328488,&quot;originating_url&quot;:&quot;https://github.com/maza123716/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh&quot;,&quot;user_id&quot;:99542621}}" data-hydro-click-hmac="3815f05058f0cd3c78e42389c22725baf23dc53528f9b4b33a7b6972f8424f8e" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:468328488,&quot;originating_url&quot;:&quot;https://github.com/maza123716/alx-low_level_programming/blob/master/0x18-dynamic_libraries/100-operations.c&quot;,&quot;user_id&quot;:99542621}}" data-hydro-click-hmac="57230b6438f8f7b307440ca05cb6ee63929f0673ac0df537af0035374b5860d4" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -1956,13 +1956,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-4345e2">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-943c94">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-4345e2"
+        id="filter-menu-943c94"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2167,7 +2167,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/maza123716/alx-low_level_programming/blob/7dce2249c1180450d368bd5d99ef72f8598bebe5/0x18-dynamic_libraries/1-create_dynamic_lib.sh">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/maza123716/alx-low_level_programming/blob/7dce2249c1180450d368bd5d99ef72f8598bebe5/0x18-dynamic_libraries/100-operations.c">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2251,7 +2251,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/maza123716/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x18-dynamic_libraries/1-create_dynamic_lib.sh" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/maza123716/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x18-dynamic_libraries/100-operations.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2291,7 +2291,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/maza123716/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x18-dynamic_libraries/1-create_dynamic_lib.sh" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/maza123716/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x18-dynamic_libraries/100-operations.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2322,7 +2322,7 @@
 </div>
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/maza123716/alx-low_level_programming"><span>alx-low_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/maza123716/alx-low_level_programming/tree/master/0x18-dynamic_libraries"><span>0x18-dynamic_libraries</span></a></span><span class="separator">/</span><strong class="final-path">1-create_dynamic_lib.sh</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/maza123716/alx-low_level_programming"><span>alx-low_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/maza123716/alx-low_level_programming/tree/master/0x18-dynamic_libraries"><span>0x18-dynamic_libraries</span></a></span><span class="separator">/</span><strong class="final-path">100-operations.c</strong>
   </h2>
   <a href="/maza123716/alx-low_level_programming/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">  Go to file
   
@@ -2335,7 +2335,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:468328488,&quot;originating_url&quot;:&quot;https://github.com/maza123716/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh&quot;,&quot;user_id&quot;:99542621}}" data-hydro-click-hmac="5981c7ceaf3cd6dc562660f0f8dad233075eba1aaa2de8de6ea8ef4622e513be" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/maza123716/alx-low_level_programming/find/master">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:468328488,&quot;originating_url&quot;:&quot;https://github.com/maza123716/alx-low_level_programming/blob/master/0x18-dynamic_libraries/100-operations.c&quot;,&quot;user_id&quot;:99542621}}" data-hydro-click-hmac="8d6c630df22fca73b37f0839d8be32b3e5a8f21f99274280723c6616afa04f16" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/maza123716/alx-low_level_programming/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2348,13 +2348,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="0x18-dynamic_libraries/1-create_dynamic_lib.sh" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="0x18-dynamic_libraries/100-operations.c" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/maza123716/alx-low_level_programming/blob/7dce2249c1180450d368bd5d99ef72f8598bebe5/0x18-dynamic_libraries/1-create_dynamic_lib.sh" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/maza123716/alx-low_level_programming/blob/7dce2249c1180450d368bd5d99ef72f8598bebe5/0x18-dynamic_libraries/100-operations.c" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2397,23 +2397,23 @@
             <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/maza123716/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/maza123716">maza123716</a>
 
               <span class="markdown-title">
-                <a data-pjax="true" title="1-create_dynamic_lib.sh" class="Link--secondary" href="/maza123716/alx-low_level_programming/commit/18f3545bd817517e895f86917b4c112d5103954d">1-create_dynamic_lib.sh</a>
+                <a data-pjax="true" title="100-operations.c" class="Link--secondary" href="/maza123716/alx-low_level_programming/commit/7cfa5b923cc6b6af4f819997f6a78f8577a5fe6b">100-operations.c</a>
               </span>
           </div>
 
 
           <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/maza123716/alx-low_level_programming/commit/18f3545bd817517e895f86917b4c112d5103954d/rollup?direction=e" class="d-inline"></include-fragment>
+            <include-fragment accept="text/fragment+html" src="/maza123716/alx-low_level_programming/commit/7cfa5b923cc6b6af4f819997f6a78f8577a5fe6b/rollup?direction=e" class="d-inline"></include-fragment>
           </span>
         </div>
         <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
           <span class="d-none d-md-inline">
             <span>Latest commit</span>
-            <a class="text-small text-mono Link--secondary" href="/maza123716/alx-low_level_programming/commit/18f3545bd817517e895f86917b4c112d5103954d" data-pjax>18f3545</a>
-            <span itemprop="dateModified"><relative-time datetime="2022-06-13T18:06:05Z" class="no-wrap">Jun 13, 2022</relative-time></span>
+            <a class="text-small text-mono Link--secondary" href="/maza123716/alx-low_level_programming/commit/7cfa5b923cc6b6af4f819997f6a78f8577a5fe6b" data-pjax>7cfa5b9</a>
+            <span itemprop="dateModified"><relative-time datetime="2022-06-13T17:53:30Z" class="no-wrap">Jun 13, 2022</relative-time></span>
           </span>
 
-          <a data-pjax href="/maza123716/alx-low_level_programming/commits/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh" class="ml-3 no-wrap Link--primary no-underline">
+          <a data-pjax href="/maza123716/alx-low_level_programming/commits/master/0x18-dynamic_libraries/100-operations.c" class="ml-3 no-wrap Link--primary no-underline">
             <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
     <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
 </svg>
@@ -2439,7 +2439,7 @@
       <details-dialog
         class="Box Box--overlay d-flex flex-column anim-fade-in fast"
         aria-label="Users who have contributed to this file"
-        src="/maza123716/alx-low_level_programming/contributors-list/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh" preload>
+        src="/maza123716/alx-low_level_programming/contributors-list/master/0x18-dynamic_libraries/100-operations.c" preload>
         <div class="Box-header">
           <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
             <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
@@ -2482,20 +2482,18 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      <span class="file-mode" title="File mode">executable file</span>
+      50 lines (50 sloc)
       <span class="file-info-divider"></span>
-      2 lines (2 sloc)
-      <span class="file-info-divider"></span>
-    79 Bytes
+    595 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-      <a data-permalink-href="/maza123716/alx-low_level_programming/raw/7dce2249c1180450d368bd5d99ef72f8598bebe5/0x18-dynamic_libraries/1-create_dynamic_lib.sh" href="/maza123716/alx-low_level_programming/raw/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
+      <a data-permalink-href="/maza123716/alx-low_level_programming/raw/7dce2249c1180450d368bd5d99ef72f8598bebe5/0x18-dynamic_libraries/100-operations.c" href="/maza123716/alx-low_level_programming/raw/master/0x18-dynamic_libraries/100-operations.c" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
   
-</a>        <a data-permalink-href="/maza123716/alx-low_level_programming/blame/7dce2249c1180450d368bd5d99ef72f8598bebe5/0x18-dynamic_libraries/1-create_dynamic_lib.sh" href="/maza123716/alx-low_level_programming/blame/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
+</a>        <a data-permalink-href="/maza123716/alx-low_level_programming/blame/7dce2249c1180450d368bd5d99ef72f8598bebe5/0x18-dynamic_libraries/100-operations.c" href="/maza123716/alx-low_level_programming/blame/master/0x18-dynamic_libraries/100-operations.c" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
   
 </a>    </div>
 
@@ -2513,10 +2511,10 @@
 
           
 <div data-test-selector="remote-clipboard-copy">
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/maza123716/alx-low_level_programming/raw/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/maza123716/alx-low_level_programming/raw/master/0x18-dynamic_libraries/100-operations.c" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:468328488,&quot;originating_url&quot;:&quot;https://github.com/maza123716/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh&quot;,&quot;user_id&quot;:99542621}}" data-hydro-click-hmac="6bbc85e394b8603782639a2c47d44bcdc9a598ec289d313f7f5ac8ce18048514" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:468328488,&quot;originating_url&quot;:&quot;https://github.com/maza123716/alx-low_level_programming/blob/master/0x18-dynamic_libraries/100-operations.c&quot;,&quot;user_id&quot;:99542621}}" data-hydro-click-hmac="2eb1014c49d4fbbd5635a7d880a6c9b5c114b4e6f706007b619066bf5d9de758" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2542,7 +2540,7 @@
 
 
 
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/maza123716/alx-low_level_programming/edit/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="zEPJjgR7R_t6bLcnymlGVg2g8sqVIFB7es1vHpbwm0_C9E8rFzk997J-NPOg26oMOIDULUq5n68gH4V1P7pLMg" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/maza123716/alx-low_level_programming/edit/master/0x18-dynamic_libraries/100-operations.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="iG6W0OWKGY8J45TgeeIj1eYdSZwzvOToRWnGbL2BPmWFIcBfmrs57zF_x7GQt-RSR84FF6R-6C_DCXS9NnRwqg" />
               <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
                 aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with data-test-selector="edit-non-dropdown">
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -2550,7 +2548,7 @@
 </svg>
               </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/maza123716/alx-low_level_programming/delete/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Rj1Ber1Ym7EEQI2472kj2q8Y72-WjK4S95hsmXXAO9QWe_vhGyxqWEt6RoBDsLMsjGQDDjUp-vL4Kh_jdw2Mug" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/maza123716/alx-low_level_programming/delete/master/0x18-dynamic_libraries/100-operations.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hPE1wQfAMlPO1f03ANPN5dVDk-7-pKissDiyRHwr5puEH41LaM83iah7OvzsGpMt179vLT3MgbMjIhCCovKhdg" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2578,15 +2576,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/maza123716/alx-low_level_programming/raw/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh">
+            <a class="dropdown-item" href="/maza123716/alx-low_level_programming/raw/master/0x18-dynamic_libraries/100-operations.c">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/maza123716/alx-low_level_programming/raw/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/maza123716/alx-low_level_programming/raw/master/0x18-dynamic_libraries/100-operations.c" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:468328488,&quot;originating_url&quot;:&quot;https://github.com/maza123716/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh&quot;,&quot;user_id&quot;:99542621}}" data-hydro-click-hmac="6bbc85e394b8603782639a2c47d44bcdc9a598ec289d313f7f5ac8ce18048514">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:468328488,&quot;originating_url&quot;:&quot;https://github.com/maza123716/alx-low_level_programming/blob/master/0x18-dynamic_libraries/100-operations.c&quot;,&quot;user_id&quot;:99542621}}" data-hydro-click-hmac="2eb1014c49d4fbbd5635a7d880a6c9b5c114b4e6f706007b619066bf5d9de758">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2609,17 +2607,17 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/maza123716/alx-low_level_programming/blame/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh">
+              <a class="dropdown-item" href="/maza123716/alx-low_level_programming/blame/master/0x18-dynamic_libraries/100-operations.c">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/maza123716/alx-low_level_programming/edit/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh">Edit file</a>
+                <a class="dropdown-item" href="/maza123716/alx-low_level_programming/edit/master/0x18-dynamic_libraries/100-operations.c">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/maza123716/alx-low_level_programming/delete/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/maza123716/alx-low_level_programming/delete/master/0x18-dynamic_libraries/100-operations.c">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2628,7 +2626,7 @@
 
 
       
-    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-shell  gist-border-0">
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-c  gist-border-0">
 
         
 <div class="js-check-bidi js-blob-code-container blob-code-content">
@@ -2657,14 +2655,206 @@
 </svg>
 </span></template>
 
-  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="Shell" data-tagsearch-path="0x18-dynamic_libraries/1-create_dynamic_lib.sh">
+  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="C" data-tagsearch-path="0x18-dynamic_libraries/100-operations.c">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#!</span>/bin/bash</span></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*</span></td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line">gcc -Wall -Werror -Wextra -pedantic -fPIC <span class="pl-k">*</span>.c -shared -o liball.so</td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * add - addition</span></td>
+        </tr>
+        <tr>
+          <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @a: number</span></td>
+        </tr>
+        <tr>
+          <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @b: nuber</span></td>
+        </tr>
+        <tr>
+          <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * Return: result</span></td>
+        </tr>
+        <tr>
+          <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> <span class="pl-c">*/</span></span></td>
+        </tr>
+        <tr>
+          <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">add</span>(<span class="pl-k">int</span> a, <span class="pl-k">int</span> b)</td>
+        </tr>
+        <tr>
+          <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line">{</td>
+        </tr>
+        <tr>
+          <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line">      <span class="pl-k">return</span> (a + b);</td>
+        </tr>
+        <tr>
+          <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*</span></td>
+        </tr>
+        <tr>
+          <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * sub - addition</span></td>
+        </tr>
+        <tr>
+          <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @a: number</span></td>
+        </tr>
+        <tr>
+          <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @b: nuber</span></td>
+        </tr>
+        <tr>
+          <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * Return: result</span></td>
+        </tr>
+        <tr>
+          <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> <span class="pl-c">*/</span></span></td>
+        </tr>
+        <tr>
+          <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">sub</span>(<span class="pl-k">int</span> a, <span class="pl-k">int</span> b)</td>
+        </tr>
+        <tr>
+          <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">{</td>
+        </tr>
+        <tr>
+          <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line">      <span class="pl-k">return</span> (a - b);</td>
+        </tr>
+        <tr>
+          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*</span></td>
+        </tr>
+        <tr>
+          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * mul - addition</span></td>
+        </tr>
+        <tr>
+          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @a: number</span></td>
+        </tr>
+        <tr>
+          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @b: nuber</span></td>
+        </tr>
+        <tr>
+          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * Return: result</span></td>
+        </tr>
+        <tr>
+          <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> <span class="pl-c">*/</span></span></td>
+        </tr>
+        <tr>
+          <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">mul</span>(<span class="pl-k">int</span> a, <span class="pl-k">int</span> b)</td>
+        </tr>
+        <tr>
+          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line">{</td>
+        </tr>
+        <tr>
+          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line">      <span class="pl-k">return</span> (a * b);</td>
+        </tr>
+        <tr>
+          <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
+          <td id="LC30" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
+          <td id="LC31" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*</span></td>
+        </tr>
+        <tr>
+          <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
+          <td id="LC32" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * div - addition</span></td>
+        </tr>
+        <tr>
+          <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
+          <td id="LC33" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @a: number</span></td>
+        </tr>
+        <tr>
+          <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
+          <td id="LC34" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @b: nuber</span></td>
+        </tr>
+        <tr>
+          <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
+          <td id="LC35" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * Return: result</span></td>
+        </tr>
+        <tr>
+          <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
+          <td id="LC36" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> <span class="pl-c">*/</span></span></td>
+        </tr>
+        <tr>
+          <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
+          <td id="LC37" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">div</span>(<span class="pl-k">int</span> a, <span class="pl-k">int</span> b)</td>
+        </tr>
+        <tr>
+          <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
+          <td id="LC38" class="blob-code blob-code-inner js-file-line">{</td>
+        </tr>
+        <tr>
+          <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
+          <td id="LC39" class="blob-code blob-code-inner js-file-line">      <span class="pl-k">return</span> (a / b);</td>
+        </tr>
+        <tr>
+          <td id="L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
+          <td id="LC40" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
+          <td id="LC41" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*</span></td>
+        </tr>
+        <tr>
+          <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
+          <td id="LC42" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * mod - addition</span></td>
+        </tr>
+        <tr>
+          <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
+          <td id="LC43" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @a: number</span></td>
+        </tr>
+        <tr>
+          <td id="L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
+          <td id="LC44" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @b: nuber</span></td>
+        </tr>
+        <tr>
+          <td id="L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
+          <td id="LC45" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * Return: result</span></td>
+        </tr>
+        <tr>
+          <td id="L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
+          <td id="LC46" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> <span class="pl-c">*/</span></span></td>
+        </tr>
+        <tr>
+          <td id="L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"></td>
+          <td id="LC47" class="blob-code blob-code-inner js-file-line"><span class="pl-k">int</span> <span class="pl-en">mod</span>(<span class="pl-k">int</span> a, <span class="pl-k">int</span> b)</td>
+        </tr>
+        <tr>
+          <td id="L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"></td>
+          <td id="LC48" class="blob-code blob-code-inner js-file-line">{</td>
+        </tr>
+        <tr>
+          <td id="L49" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="49"></td>
+          <td id="LC49" class="blob-code blob-code-inner js-file-line">      <span class="pl-k">return</span> (a % b);</td>
+        </tr>
+        <tr>
+          <td id="L50" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="50"></td>
+          <td id="LC50" class="blob-code blob-code-inner js-file-line">}</td>
         </tr>
   </table>
 </div>
@@ -2690,7 +2880,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/maza123716/alx-low_level_programming/blame/7dce2249c1180450d368bd5d99ef72f8598bebe5/0x18-dynamic_libraries/1-create_dynamic_lib.sh">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/maza123716/alx-low_level_programming/blame/7dce2249c1180450d368bd5d99ef72f8598bebe5/0x18-dynamic_libraries/100-operations.c">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/maza123716/alx-low_level_programming/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
