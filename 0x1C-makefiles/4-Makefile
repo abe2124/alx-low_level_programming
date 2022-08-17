@@ -1,21 +1,24 @@
+# Makefile for school, version 0.4
+
+NAME = school
+
 CC = gcc
-SRC = main.c school.c 
-NAME = holberton
-OBJ = $(subst .c,.o,$(SRC))
-RM = rm -f
 CFLAGS = -Wall -Werror -Wextra -pedantic
+SRC = main.c school.c
+OBJ = $(patsubst %.c, %.o, $(SRC))
+
+TMPFILES = *~
+
+RM = rm -f
 
 all: $(OBJ)
-	$(CC) $(OBJ) -o $(NAME)
+	$(CC) $^ -o $(NAME)
 
-%.o: %.c
-	$(CC) $(CFLAGS)   -c -o $@ $<
-	
 clean:
-	$(RM) *~ $(NAME)
+	$(RM) $(NAME) $(TMPFILES)
 
 oclean:
-	$(RM) $(OBJ) 
+	$(RM) $(OBJ)
 
 fclean: clean oclean
 
