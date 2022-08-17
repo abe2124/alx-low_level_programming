@@ -1,45 +1,19 @@
 #!/usr/bin/python3
+"""Provides a function to compute the perimeter of an island"""
 
 
 def island_perimeter(grid):
-    """ Function that returns detail of a grid
-    """
-
-    if not isinstance(grid, list) or not len(grid):
-        return 0
-    y = len(grid) - 1
-    x = len(grid[0]) - 1
-
-    prim = 0
-
-    for i in range(y):
-        for j in range(x):
-            if grid[i][j] == 1:
-                prim += check_surround(grid, i, j)
-    return prim
-
-
-def check_surround(grid, row, idx):
-    """ Function that checks the surroundings of a given tile
-    """
-    height = len(grid)
-    length = len(grid[0])
-    sur = [0, 0, 0, 0]
-
-    if row - 1 >= 0:  # up
-        if not grid[row - 1][idx]:
-            sur[0] = 1
-
-    if row + 1 < height:  # down
-        if not grid[row + 1][idx]:
-            sur[1] = 1
-
-    if idx - 1 >= 0:  # left
-        if not grid[row][idx - 1]:
-            sur[2] = 1
-
-    if idx + 1 < length:  # right
-        if not grid[row][idx + 1]:
-            sur[3] = 1
-
-    return sum(sur)
+    """Compute the perimeter of an island"""
+    perim = 0
+    for y, row in enumerate(grid):
+        for x, item in enumerate(row):
+            if item == 1:
+                if x == 0 or grid[y][x - 1] == 0:
+                    perim += 1
+                if x == len(row) - 1 or grid[y][x + 1] == 0:
+                    perim += 1
+                if y == 0 or grid[y - 1][x] == 0:
+                    perim += 1
+                if y == len(grid) - 1 or grid[y + 1][x] == 0:
+                    perim += 1
+    return perim
